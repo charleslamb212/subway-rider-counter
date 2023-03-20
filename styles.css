@@ -32,10 +32,18 @@ button {
 }
 
 #increment-btn {
-    background: darkred;
+    background: purple;
 }
 
 #save-btn {
-    background: darkgreen;
+    background: goldenrod;
+}
+.container {
+    max-width: 80%px;
+    margin: auto;
+    background: grey;
+    border: 1px solid black;
+    border-radius: 10px;
+    opacity: 80%;
 }
 
